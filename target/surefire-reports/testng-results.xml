@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-13T19:39:22 IST" name="API TEST" finished-at="2024-07-13T19:39:28 IST" duration-ms="6156">
+    <groups>
+    </groups>
+    <test started-at="2024-07-13T19:39:22 IST" name="Sauron 4 api testcases" finished-at="2024-07-13T19:39:28 IST" duration-ms="6156">
+      <class name="com.trio.assignment.apiTest.ApiTest">
+        <test-method signature="LoginAPITest()[pri:0, instance:com.trio.assignment.apiTest.ApiTest@506aabf6]" started-at="2024-07-13T19:39:22 IST" name="LoginAPITest" finished-at="2024-07-13T19:39:27 IST" duration-ms="4457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPITest -->
+        <test-method signature="EnrollAndroidAPITest()[pri:1, instance:com.trio.assignment.apiTest.ApiTest@506aabf6]" started-at="2024-07-13T19:39:27 IST" name="EnrollAndroidAPITest" finished-at="2024-07-13T19:39:28 IST" duration-ms="964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnrollAndroidAPITest -->
+        <test-method signature="AgentLogingAPITest()[pri:2, instance:com.trio.assignment.apiTest.ApiTest@506aabf6]" started-at="2024-07-13T19:39:28 IST" name="AgentLogingAPITest" finished-at="2024-07-13T19:39:28 IST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AgentLogingAPITest -->
+      </class> <!-- com.trio.assignment.apiTest.ApiTest -->
+    </test> <!-- Sauron 4 api testcases -->
+  </suite> <!-- API TEST -->
+</testng-results>
