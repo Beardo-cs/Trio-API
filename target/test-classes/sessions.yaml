@@ -1,3 +1,0 @@
-- name: chrome_session
-  local: true
-  platform: chrome
